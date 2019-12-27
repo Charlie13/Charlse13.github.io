@@ -1,5 +1,8 @@
-# c:\Z\git\charlie13.github.io>git add *
+#####
+#
+c:\Z\git\charlie13.github.io>git add *
 
+#####
 # c:\Z\git\charlie13.github.io>git commit -m "index.html added"
 [master ff722de] index.html added
  Committer: Kang <vdmb5t@splm.siemens.com>
@@ -16,6 +19,7 @@ After doing this, you may fix the identity used for this commit with:
 
  1 file changed, 1 insertion(+)
 
+#####
 # c:\Z\git\charlie13.github.io>git push
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
